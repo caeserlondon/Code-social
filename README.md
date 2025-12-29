@@ -5,14 +5,13 @@
 Think of it as a lightweight mix of **Reddit**, **Discord**, and a personal blog — all powered by Python and Django!
 
 <p align="center">
-  <img src="static/simplesocial/images/page-1.png" width="150" title="homepage1" alt="homepage1">
-  <img src="static/simplesocial/images/page-2.png" width="150" title="homepage2" alt="homepage2">
-  <img src="static/simplesocial/images/page-3.png" width="150" title="homepage3" alt="homepage3">
+  <img src="static/simplesocial/images/page-1.png" width="200" title="homepage1" alt="homepage1">
+  <img src="static/simplesocial/images/page-2.png" width="200" title="homepage2" alt="homepage2">
+  <img src="static/simplesocial/images/page-3.png" width="200" title="homepage3" alt="homepage3">
 
 </p>
 
- <link rel="icon" type="image/png" href="/static/simplesocial/images/favicon.png">
----
+## <link rel="icon" type="image/png" href="/static/simplesocial/images/favicon.png">
 
 ## ✨ Features
 
@@ -46,18 +45,20 @@ Think of it as a lightweight mix of **Reddit**, **Discord**, and a personal blog
 ## 🚀 Getting Started
 
 ### 💡 How It Works
+
 Every post belongs to a group.
 Users must join a group to see its posts or create new ones.
 Only group members can post in that group.
 All authentication is handled securely using Django’s best practices.
+
 ### 🔒 Security Notes
+
 Passwords are hashed (never stored in plain text).
 User sessions are managed by Django’s secure session framework.
 Always use HTTPS in production (not needed in development).
+
 ### 📜 License
 
- This project is for educational and personal use. Feel free to learn, modify, and build upon it!
+This project is for educational and personal use. Feel free to learn, modify, and build upon it!
 
- ### Made with ❤️ by Caeser Ibrahim
-
-
+### Made with ❤️ by Caeser Ibrahim
