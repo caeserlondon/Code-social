@@ -1,0 +1,55 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
+
+.mycontent{
+  padding-top: 100px;
+ border: 10px solid red;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #191063;
+  margin: 0;
+}
+
+
+#note {
+  position: absolute;
+  color: rgba(249,241,204,1);
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial, sans-serif;
+}
+
+.logout-button {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-simple {
+  background: transparent;
+  border: none;
+  color: #007bff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  transition: color 0.15s;
+}
+.btn-simple:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
