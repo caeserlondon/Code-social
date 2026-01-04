@@ -1,6 +1,6 @@
 # Code Social
 
-**Code Social** is a full-featured social blogging platform built with **Django** and **Bootstrap**. Users can register, create and join groups, publish blog posts, and interact with others in a community-driven environment.
+**Code Social** is a full-featured social blogging platform built with **Python**, **Django** and **Bootstrap**. Users can register, create and join groups, publish blog posts, and interact with others in a community-driven environment.
 
 Think of it as a lightweight mix of **Reddit**, **Discord**, and a personal blog — all powered by Python and Django!
 
